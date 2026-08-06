@@ -45,4 +45,3 @@ print(f"✓ Psychometric loaded: {psychometric.shape}")
 
 print("\n" + "=" * 50)
 print("All datasets loaded successfully!")
-print("=" * 50)
